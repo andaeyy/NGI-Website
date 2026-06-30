@@ -763,5 +763,14 @@
     "width": 1280,
     "height": 719,
     "status": "downloaded"
+  },
+  {
+    "sourceUrl": "https://ceti.institute/wp-content/uploads/2025/06/ETF25-PRIMARY-web-hero-1024x1024.jpg",
+    "path": "/images/migrated/enchanted-technology-festival-2025.jpg",
+    "page": "enchanted-technology-festival-2025",
+    "alt": "Enchanted Technology Festival 2025",
+    "width": 1024,
+    "height": 1024,
+    "status": "downloaded"
   }
 ]
