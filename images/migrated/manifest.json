@@ -1060,5 +1060,23 @@
     "width": 1280,
     "height": 712,
     "status": "downloaded"
+  },
+  {
+    "sourceUrl": "https://ceti.institute/wp-content/uploads/2025/06/DSC09213_fw.jpg",
+    "path": "/images/migrated/enchanted-technology-festival-2025-workshop.jpg",
+    "page": "enchanted-technology-festival-2025",
+    "alt": "Enchanted Technology Festival 2025 workshop photo",
+    "width": 2550,
+    "height": 1700,
+    "status": "downloaded"
+  },
+  {
+    "sourceUrl": "https://ceti.institute/wp-content/uploads/2024/01/DSC05814-scaled.jpg",
+    "path": "/images/migrated/xrchive-block-14-lone-fir-cemetery-ar.jpg",
+    "page": "xrchive-block-14-lone-fir-cemetery",
+    "alt": "XRchive Block 14 augmented reality experience photo",
+    "width": 2560,
+    "height": 1707,
+    "status": "downloaded"
   }
 ]
